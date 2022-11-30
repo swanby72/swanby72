@@ -1,0 +1,5 @@
+- Hi! I'm swanby and this is my github profile 🙋🏻
+- I'm currently studying Multiplatform App Development at IES Oretania (Linares, Spain) 🎓🌍
+- Java and C are some of the programming languages I'm learning 🧩💭 
+- I'm also using docker, SQL (with Postgres and MySQL) and XHTML + CSS for databases and web development 🙌🏻🧑🏻‍💻
+- Living between MacOS, Windows and Linux... 🌐
